@@ -1,0 +1,4 @@
+*********************************************
+* Parse the JSON file (resources/input.json).
+* Write Solvers (si.klika.job.solvers.Solver) for all the operations in the input file and write the results in resources/output.json
+* Write JUnit test (si.klika.job.JobTest) that compares your output file with resources/output_expected.json
